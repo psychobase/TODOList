@@ -22,11 +22,11 @@ TODOList服务：
 需要restful设计
 ## 微服务设计
 ### 前端服务
-由张昀负责
+由king负责
 每一个icon或action会bind一个api，对应服务端请求
 ### 服务端服务
 所有http请求都经过gateway服务进行转发，目前默认固定转发到TODOList服务
-![G])MKPJXY`CZ1~)7)JJ]G@C.png](https://cdn.nlark.com/yuque/0/2022/png/26712654/1647769959104-7a98217a-ff80-4e04-8d3c-9218ce955b2f.png#clientId=u39d41fba-81d2-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=414&id=u542ebdcf&margin=%5Bobject%20Object%5D&name=G%5D%29MKPJXY%60CZ1~%297%29JJ%5DG%40C.png&originHeight=414&originWidth=990&originalType=binary&ratio=1&rotation=0&showTitle=false&size=33869&status=done&style=none&taskId=u3c53a536-be0a-458c-93e9-76f808ad611&title=&width=990)
+![img](file:///C:\Users\admin\AppData\Roaming\Tencent\Users\501775147\TIM\WinTemp\RichOle\C7V@C[PUGA64FXP{]}8]{R8.png)
 ## 系统设计
 服务器：43.132.165.73
 端口号：443（转发服务）、rpc（逻辑服务）
@@ -42,5 +42,4 @@ TODOList服务：
 - 4.11-4.17  写持久层，调试，review，合入master
 - 4.18-4.24  联调，合入master，部署
 ## 
-
 
