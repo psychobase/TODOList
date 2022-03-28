@@ -26,7 +26,7 @@ TODOList服务：
 每一个icon或action会bind一个api，对应服务端请求
 ### 服务端服务
 所有http请求都经过gateway服务进行转发，目前默认固定转发到TODOList服务
-![](pic/img1.png)
+![](../asserts/img1.png)
 ## 系统设计
 服务器：43.132.165.73
 端口号：443（转发服务）、rpc（逻辑服务）
